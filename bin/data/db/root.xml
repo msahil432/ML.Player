@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+For Size, 1 means "maximum", 2 means "normal", 3 means "minimum".
+For Configured, 0 means not configured and planting will run.
+--><root>
+    <size>2</size>
+    <configured>1</configured>
+	<resize>f</resize>
+</root>
